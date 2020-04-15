@@ -20,9 +20,9 @@ public class MainActivity extends AppCompatActivity {
     }
     
     private void TestUpload2() {
-        int i = 15;
-        int ii = 50;
-        int iii = i + ii;
+        int i = 7;
+        int ii = 30;
+        int iii = 56;
 
         String test = "test";
 
