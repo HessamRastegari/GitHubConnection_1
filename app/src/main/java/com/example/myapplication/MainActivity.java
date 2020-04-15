@@ -18,4 +18,10 @@ public class MainActivity extends AppCompatActivity {
         int ii = 2 + 2;
         int iii = i + ii;
     }
+    
+    private void TestUpload2() {
+        int i = 1 + 1;
+        int ii = 2 + 2;
+        int iii = i + ii;
+    }
 }
