@@ -20,8 +20,8 @@ public class MainActivity extends AppCompatActivity {
     }
     
     private void TestUpload2() {
-        int i = 1 + 1;
-        int ii = 2 + 2;
+        int i = 15;
+        int ii = 50;
         int iii = i + ii;
 
         String test = "test";
